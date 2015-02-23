@@ -1,0 +1,21 @@
+{
+  "name": "reacttest",
+  "version": "0.1.0",
+  "description": "testing reactjs",
+  "main": "server.js",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "express": "^4.11.2",
+    "node-uuid": "^1.4.2",
+    "react": "^0.12.2",
+    "react-tools": "^0.12.2",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lerenzo malcom",
+  "license": "ISC"
+}
